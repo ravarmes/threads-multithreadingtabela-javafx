@@ -18,7 +18,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
   <a href="https://github.com/ravarmes/threads-multithreadingtabela-java/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/ravarmes/threads-multithreadingtabela-java?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/ravarmes/threads-multithreadingtabela-javafx?style=social">
   </a>
 </p>
 
